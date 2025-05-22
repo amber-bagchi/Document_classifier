@@ -1,0 +1,401 @@
+2025-05-22 13:21:28,485 - INFO - {
+  "timestamp": "2025-05-22T13:21:28.485003",
+  "filename": "certificate_1_technical.png",
+  "predicted_type": "unknown",
+  "processing_time": 3.5389649868011475,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 51.21537151989133,
+    "contrast_score": 70.78045030523035,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 80,
+      "min_contrast": 30,
+      "min_resolution": 2
+    },
+    "status": {
+      "blur_check": false,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 13:25:22,675 - INFO - {
+  "timestamp": "2025-05-22T13:25:22.675174",
+  "filename": "certificate_1_technical.png",
+  "predicted_type": "unknown",
+  "processing_time": 3.483754873275757,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 51.21537151989133,
+    "contrast_score": 70.78045030523035,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 80,
+      "min_contrast": 30,
+      "min_resolution": 2
+    },
+    "status": {
+      "blur_check": false,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 13:32:45,517 - INFO - {
+  "timestamp": "2025-05-22T13:32:45.517368",
+  "filename": "certificate_1_technical.png",
+  "predicted_type": "unknown",
+  "processing_time": 3.6073808670043945,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 51.21537151989133,
+    "contrast_score": 70.78045030523035,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 80,
+      "min_contrast": 30,
+      "min_resolution": 2
+    },
+    "status": {
+      "blur_check": false,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 13:34:20,114 - INFO - {
+  "timestamp": "2025-05-22T13:34:20.114090",
+  "filename": "certificate_1_technical.png",
+  "predicted_type": "Invoice",
+  "processing_time": 4.088728904724121,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 51.21537151989133,
+    "contrast_score": 70.78045030523035,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 30,
+      "min_contrast": 30,
+      "min_resolution": 30
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 13:53:55,678 - INFO - {
+  "timestamp": "2025-05-22T13:53:55.678339",
+  "filename": "certificate_2_digital_badge.pdf",
+  "predicted_type": "unknown",
+  "processing_time": 0.32660889625549316,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 323.78839013096837,
+    "contrast_score": 49.28612988398771,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 30,
+      "min_contrast": 30,
+      "min_resolution": 30
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": false
+    }
+  }
+}
+2025-05-22 13:54:49,626 - INFO - {
+  "timestamp": "2025-05-22T13:54:49.626586",
+  "filename": "invoice_3_minimal.png",
+  "predicted_type": "unknown",
+  "processing_time": 3.5002989768981934,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 7.1936388540746785,
+    "contrast_score": 23.658142561928376,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 30,
+      "min_contrast": 30,
+      "min_resolution": 30
+    },
+    "status": {
+      "blur_check": false,
+      "contrast_check": false,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 13:55:54,533 - INFO - {
+  "timestamp": "2025-05-22T13:55:54.533295",
+  "filename": "invoice_3_minimal.png",
+  "predicted_type": "Invoice",
+  "processing_time": 4.234200716018677,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 7.1936388540746785,
+    "contrast_score": 23.658142561928376,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 5,
+      "min_contrast": 5,
+      "min_resolution": 5
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 13:57:58,579 - INFO - {
+  "timestamp": "2025-05-22T13:57:58.579236",
+  "filename": "invoice_3_minimal.png",
+  "predicted_type": "Invoice",
+  "processing_time": 4.098168849945068,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 7.1936388540746785,
+    "contrast_score": 23.658142561928376,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 5,
+      "min_contrast": 5,
+      "min_resolution": 5
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 13:59:48,011 - INFO - {
+  "timestamp": "2025-05-22T13:59:48.010946",
+  "filename": "certificate_1_technical.png",
+  "predicted_type": "Invoice",
+  "processing_time": 4.040487766265869,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 51.21537151989133,
+    "contrast_score": 70.78045030523035,
+    "resolution_score": 33.22767857142857,
+    "thresholds": {
+      "min_blur": 5,
+      "min_contrast": 5,
+      "min_resolution": 5
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 14:00:18,103 - INFO - {
+  "timestamp": "2025-05-22T14:00:18.103675",
+  "filename": "certificate_1_technical.pdf",
+  "predicted_type": "Invoice",
+  "processing_time": 0.5744061470031738,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 3516.764798800227,
+    "contrast_score": 73.61982493451372,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 5,
+      "min_contrast": 5,
+      "min_resolution": 5
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 14:02:27,800 - INFO - {
+  "timestamp": "2025-05-22T14:02:27.800591",
+  "filename": "certificate_1_technical.pdf",
+  "predicted_type": "Invoice",
+  "processing_time": 0.5640342235565186,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 3516.764798800227,
+    "contrast_score": 73.61982493451372,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 5,
+      "min_contrast": 5,
+      "min_resolution": 5
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 15:01:28,459 - INFO - {
+  "timestamp": "2025-05-22T15:01:28.459754",
+  "filename": "payslip_6.pdf",
+  "predicted_type": "Certificate",
+  "processing_time": 0.5700111389160156,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 1104.3455980350896,
+    "contrast_score": 39.09926482271232,
+    "resolution_score": 10.928571428571429,
+    "thresholds": {
+      "min_blur": 80,
+      "min_contrast": 30,
+      "min_resolution": 2
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 15:02:36,011 - INFO - {
+  "timestamp": "2025-05-22T15:02:36.011753",
+  "filename": "certificate_7_workshop.pdf",
+  "predicted_type": "Invoice",
+  "processing_time": 0.6562159061431885,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 207.14418031315927,
+    "contrast_score": 49.12815829412171,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 80,
+      "min_contrast": 30,
+      "min_resolution": 2
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 15:41:27,316 - INFO - {
+  "timestamp": "2025-05-22T15:41:27.316132",
+  "filename": "certificate_7_workshop.pdf",
+  "predicted_type": "Invoice",
+  "processing_time": 0.5849599838256836,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 207.14418031315927,
+    "contrast_score": 49.12815829412171,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 80,
+      "min_contrast": 30,
+      "min_resolution": 2
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 15:42:23,633 - INFO - {
+  "timestamp": "2025-05-22T15:42:23.633563",
+  "filename": "certificate_7_workshop.pdf",
+  "predicted_type": "Invoice",
+  "processing_time": 0.5784549713134766,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 207.14418031315927,
+    "contrast_score": 49.12815829412171,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 80,
+      "min_contrast": 30,
+      "min_resolution": 2
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 15:56:42,010 - INFO - {
+  "timestamp": "2025-05-22T15:56:42.010198",
+  "filename": "certificate_7_workshop.pdf",
+  "predicted_type": "unknown",
+  "processing_time": 0.32233595848083496,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 207.14418031315927,
+    "contrast_score": 49.12815829412171,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 30,
+      "min_contrast": 30,
+      "min_resolution": 30
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": false
+    }
+  }
+}
+2025-05-22 15:57:13,306 - INFO - {
+  "timestamp": "2025-05-22T15:57:13.306400",
+  "filename": "certificate_7_workshop.pdf",
+  "predicted_type": "Invoice",
+  "processing_time": 0.6298298835754395,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 207.14418031315927,
+    "contrast_score": 49.12815829412171,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 5,
+      "min_contrast": 5,
+      "min_resolution": 5
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 16:00:47,820 - INFO - {
+  "timestamp": "2025-05-22T16:00:47.820063",
+  "filename": "certificate_7_workshop.pdf",
+  "predicted_type": "Certificate",
+  "processing_time": 0.5090498924255371,
+  "extracted_fields": {},
+  "quality_metrics": {
+    "blur_score": 207.14418031315927,
+    "contrast_score": 49.12815829412171,
+    "resolution_score": 10.633928571428571,
+    "thresholds": {
+      "min_blur": 5,
+      "min_contrast": 5,
+      "min_resolution": 5
+    },
+    "status": {
+      "blur_check": true,
+      "contrast_check": true,
+      "resolution_check": true
+    }
+  }
+}
+2025-05-22 16:40:33,937 - ERROR - Form data requires "python-multipart" to be installed. 
+You can install "python-multipart" with: 
+
+pip install python-multipart
+
